@@ -5,7 +5,7 @@ This project presents a comprehensive Financial Modelling and Valuation of ITC L
 
 In addition to DCF valuation, the workbook includes financial ratio analysis, common-size financial statements, comparable company valuation, free cash flow analysis, and Value at Risk (VaR) estimation using Monte Carlo Simulation.
 
-Objectives
+Objectives - 
 Analyze ITC's historical financial performance.
 Build integrated financial statements.
 Forecast future revenues, expenses, and cash flows.
@@ -14,7 +14,8 @@ Perform intrinsic valuation using the Discounted Cash Flow (DCF) method.
 Compare intrinsic value with market valuation.
 Assess financial risk using Value at Risk (VaR) techniques.
 
-Workbook Contents
+
+Workbook Contents - 
 The Excel model includes the following components:
 Historical Financial Statements
 Profit & Loss Statement
@@ -32,7 +33,7 @@ Monte Carlo Simulation
 Supporting Data & Assumptions
 
 
-Financial Analysis Performed
+Financial Analysis Performed - 
 Historical Analysis
 Revenue Growth
 Profitability Trends
@@ -48,12 +49,10 @@ Common Size Analysis
 Common Size Income Statement
 Common Size Balance Sheet
 
-Valuation Methodology
 
+Valuation Methodology - 
 The intrinsic value of ITC was estimated using the Discounted Cash Flow (DCF) approach.
-
 The valuation process includes:
-
 Forecasting operating performance
 Estimating Free Cash Flow to Firm (FCFF)
 Calculating WACC
@@ -63,17 +62,15 @@ Estimating Enterprise Value
 Calculating Equity Value
 
 
-Risk Analysis
-
+Risk Analysis - 
 The model also includes risk assessment techniques such as:
-
 Historical Value at Risk (VaR)
 Monte Carlo Simulation
 Sensitivity Analysis
-
 These analyses help evaluate uncertainty around valuation assumptions and potential investment risk.
 
-Tools Used
+
+Tools Used - 
 Microsoft Excel
 Financial Modelling
 Discounted Cash Flow (DCF)
@@ -106,6 +103,7 @@ Monte Carlo Simulation
 Microsoft Excel
 📷 Model Preview
 
+ 
 Add screenshots of:
 
 Dashboard / Main Sheet
